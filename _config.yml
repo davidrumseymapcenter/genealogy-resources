@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Title
-description: A short description
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+title: Genealogy Resources
+remote_theme: just-the-docs/just-the-docs
+description: Genealogy Resources from the David Rumsey Map Center
+baseurl: "/genealogy-resources" # the subpath of your site, e.g. /blog
+url: "https://davidrumseymapcenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
@@ -174,6 +177,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 kramdown:
   syntax_highlighter_opts:
