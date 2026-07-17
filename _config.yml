@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Genealogy Resources
-theme: just-the-docs
-gem: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 description: Genealogy Resources from the David Rumsey Map Center
 baseurl: "/genealogy-resources" # the subpath of your site, e.g. /blog
 url: "https://davidrumseymapcenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -175,6 +174,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 kramdown:
   syntax_highlighter_opts:
