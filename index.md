@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 nav_enabled: false
 title: Home
 description: "Genealogy resources provided by the David Rumsey Map Center."
