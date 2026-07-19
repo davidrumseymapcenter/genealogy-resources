@@ -1,14 +1,14 @@
 ---
-layout: default
+layout: minimal
 title: Home
 nav_order: 1
 description: "Genealogy resources provided by the David Rumsey Map Center."
 permalink: /
 ---
 
-# Overview of using maps in genealogical research
+# Overview: using maps in genealogical research
 
-- [Slides](https://docs.google.com/presentation/d/1GkosVrt6i21QHZ7sffMnsycdPppEoVl46k1J06mtXhw/edit?slide=id.p#slide=id.p)
+- [Slides](https://docs.google.com/presentation/d/10N5Ey5cLlDIn67HiVHoW4jGTr2Dg1fuYhoN1q28wkTQ/edit?usp=sharing)
 
 # Search tools for finding maps on [DavidRumsey.com](https://www.davidrumsey.com/)
 
