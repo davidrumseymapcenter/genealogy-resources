@@ -21,8 +21,8 @@ permalink: /
 - [Library of Congress](https://www.loc.gov/maps/)
 - [Europeana](https://www.europeana.eu/en/collections/topic/43-map)
 
-# Verify placenames and county boundaries
-
+# Resources for related historical spatial information
+- [US Federal Land Records research guide](https://guides.library.stanford.edu/landrecords)
 - [Atlas of Historical County Boundaries](https://publications.newberry.org/ahcb/)
 - [Geographic Names Information System (GNIS)](https://www.usgs.gov/tools/geographic-names-information-system-gnis)
 
