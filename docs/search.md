@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_exclude: true
 title: Search
 nav_order: 7
 ---
